@@ -1,0 +1,500 @@
+   54  make test_week2
+   55  ./ci_reference -h
+   56  ./ci_reference -i testcases/week2/mov.s
+   57  ./ci_reference -p -i testcases/week2/mov.s
+   58  make test_week2
+   59  make test_week2
+   60  make all
+   61  make test_week2
+   62  make all
+   63  make all
+   64  make all
+   65  make all
+   66  make debug
+   67  make test_week2
+   68  make clean
+   69  make debug
+   70  gdb bin/ci
+   71  make clean && make debug
+   72  gdb bin/ci
+   73  make clean && make debuq
+   74  make debug
+   75  gdb bin/ci
+   76  y
+   77  make all
+   78  make clean
+   79  make debug
+   80  make test_week2
+   81  gdb/bin/ci
+   82  gdb bin/ci
+   83  make clean
+   84  make debug
+   85  gdb bin/ci
+   86  make all
+   87  make all
+   88  make test_week2
+   89  make test_week2
+   90  make all
+   91  make test_week2
+   92  make test_week2
+   93  gdb bin/src
+   94  gdb bin/src
+   95  make clean
+   96  make clean
+   97  make debug
+   98  gdb bin/src
+   99  gdb src/ci
+  100  gdb src/ci
+  101  gdb bin/ci
+  102  make clear
+  103  make clean
+  104  make debug
+  105      git config --global user.name "William Yen"
+  106      git config --global user.email "williamyen042@gmail.com"
+  107  git config --list
+  108  git add.
+  109  git add .
+  110  git commit -m "done"
+  111  git push
+  112  make all
+  113  make test_week2
+  114  make all
+  115  make all
+  116  make all
+  117  make all
+  118  make test_week3
+  119  gdb src/ci
+  120  gcc -g -o my_program testcases/week3/lsl_err_args3.s
+  121  make test_week3
+  122  make all
+  123  make test_week3
+  124  make test_week3
+  125  make all
+  126  make test_week3
+  127  gdb src/ci
+  128  gdb bin/src/ci
+  129  gdb bin/ci
+  130  gdb bin/ci
+  131  make clean
+  132  make debug
+  133  gdb bin/ci
+  134  make clean
+  135  make debug
+  136  make test_week3
+  137  make all
+  138  make test_week3
+  139  gdb bin/ci
+  140  make test_week3
+  141  make all
+  142  make test_week3
+  143  make all
+  144  make all
+  145  make all
+  146  make test_week3
+  147  gdb bin/ci
+  148  make clean
+  149  make debug
+  150  make test_week3
+  151  gdb bin/ci
+  152  make clean
+  153  make debug
+  154  make test_week3
+  155  gdb bin/ci
+  156  make test_week3
+  157  make all
+  158  make all
+  159  make all
+  160  make test week_3
+  161  make all
+  162  make all
+  163  make all
+  164  make all
+  165  make test_week3
+  166  gdb bin/ci
+  167  make clean
+  168  make debug
+  169  make test week_3
+  170  quit
+  171  make clean
+  172  make debug
+  173  make test_week3
+  174  gdb bin/ci
+  175  gdb bin/ci
+  176  make clean
+  177  make debug
+  178  make test_week3
+  179  make all
+  180  make all
+  181  make all
+  182  make test_week3
+  183  gdb bin/ci
+  184  make clean
+  185  make debug
+  186  make all
+  187  gdb bin/ci
+  188  make clean
+  189  make debug
+  190  gdb bin/co
+  191  make clean
+  192  make debug
+  193  gdb bin/ci
+  194  pwd
+  195  ls
+  196  cd ci-lab-sillywillyatUT
+  197  ls
+  198  pwd
+  199  ls
+  200  cd ci-lab-sillywillyatUT
+  201  cd ~/ci-lab-sillywillyatUT
+  202  cat ~/.ssh/config
+  203  hostname
+  204  hostname -f
+  205  ssh-add -l
+  206  leave
+  207  logout
+  208  ls
+  209  cd ci-lab-sillywillyatUT
+  210  make test_week3
+  211  GDB BIN.CI
+  212  gdb bin/ci
+  213  make clean && make debug
+  214  gdb bin/ci
+  215  make all
+  216  make clean
+  217  make debug
+  218  make all
+  219  make test_week3
+  220  make all
+  221  make all
+  222  make all
+  223  make all
+  224  make test_week3
+  225  make clean
+  226  make debug
+  227  make test_week3
+  228  make all
+  229  make test_week3
+  230  ls -l /u/williamy/ci-lab-sillywillyatUT/src/ci/parser.c
+  231  quota -s
+  232  make clean
+  233  make debug
+  234  make test_week3
+  235  make all
+  236  make test_week3
+  237  gdb bin/ci
+  238  gdb bin/co
+  239  gdb bin/ci
+  240  make all
+  241  make clean
+  242  make debug
+  243  make debug
+  244  quota -s
+  245  gdb bin/ci
+  246  make clean
+  247  make debug
+  248  make clean
+  249  make debug
+  250  make all
+  251  make all
+  252  make all
+  253  make clean
+  254  make debug
+  255  run -i /u/williamy/ci-lab-sillywillyatUT/testcases/week3/hello_world_nl.s
+  256  gdb bin/ci
+  257  ls -lh
+  258  du -sh ~/*
+  259  du -sh ~/* | sort -rh | head -n 10
+  260  make clean
+  261  make test_week3
+  262  make clean
+  263  make debug
+  264  make test_week3
+  265  gdb bin/ci
+  266  make clean
+  267  made debug
+  268  make debug
+  269  make test_week3
+  270  gdb bin/ci
+  271  make clewan
+  272  make clean
+  273  make debug
+  274  gdb bin/ci
+  275  make clean
+  276  make debug
+  277  gdb bin/ci
+  278  gdb bin/ci
+  279  make test_week3
+  280  make test_week3
+  281  make test_week3
+  282  make clean
+  283  make debug
+  284  make test_week3
+  285  make test_week3
+  286  make test_week3
+  287  make test_week3
+  288  make test_week3
+  289  make test_week3
+  290  make test_week3
+  291  make test_week3
+  292  make test_week3
+  293  make clean
+  294  make debug
+  295  make test_week3
+  296  make clean
+  297  make debug
+  298  make test_week4
+  299  make test_week3
+  300  git add .
+  301  git commit -m "week3"
+  302  git push
+  303  gdb bin/ci
+  304  make all
+  305  make all
+  306  make all
+  307  make all
+  308  make all
+  309  make all
+  310  make all
+  311  make all
+  312  make all
+  313  make all
+  314  make all
+  315  make all
+  316  make all
+  317  make all
+  318  make all
+  319  make all
+  320  make all
+  321  make clean
+  322  make debug
+  323  make test_week4
+  324  gdb bin/ci
+  325  make clean
+  326  make debug
+  327  gdb bin/ci
+  328  make clean
+  329  make debug
+  330  gdb bin/ci
+  331  make test_week4
+  332  make clean
+  333  make debug
+  334  gdb bin/ci
+  335  make clean
+  336  make debug
+  337  gdb bin.ci
+  338  y
+  339  gdb bin/ci
+  340  make test_weeek4
+  341  make test_week4
+  342  make all
+  343  make test_week4
+  344  gdb bin/ci
+  345  make clean
+  346  make debug
+  347  gdb bin/ci
+  348  gdb bin/ci
+  349  make clean
+  350  make debug
+  351  gdb bi/ci
+  352  gdb bin/ci
+  353  make clean
+  354  make debug
+  355  make test_week4
+  356  make clean
+  357  make debug
+  358  gdb bin/ci
+  359  make clean
+  360  make debug
+  361  gdb bin/ci
+  362  make clean
+  363  make debug
+  364  git add .
+  365  git commit -m "week 4 submission"
+  366  git push
+  367  gdb bin/ci
+  368  make test_week4
+  369  ls -al ~/.ssh
+  370  git clone git@github.com:CS429-FA2025/mm-lab-sillywillyatUT.git
+  371  make heap_runner
+  372  make heap_runner
+  373  ./heap_runner
+  374  gdb ./heap_runner
+  375  make heap_runner
+  376  ./heap_runner
+  377  make all
+  378  make all
+  379  make all
+  380  make all
+  381  make all
+  382  make all
+  383  make all
+  384  make all
+  385  make all
+  386  make clean
+  387  make debug
+  388  make heap_runner
+  389  make clean
+  390  make debug
+  391  make all
+  392  make all
+  393  make clean
+  394  make debug
+  395  make all
+  396  make heap_runner
+  397  ./heap_runner
+  398  gdb ./heap_runner
+  399  make clean
+  400  make debug
+  401  make heap_runner
+  402  ./heap_runner
+  403  gdb ./heap_runner
+  404  ./heap_runner
+  405  make clean
+  406  makde bug
+  407  make debug
+  408  make heap_runner
+  409  ./heap_runner
+  410  make clean
+  411  make debug
+  412  make deploy
+  413  python3 driver.py 
+  414  python3 driver.py -i
+  415  python3 driver.py
+  416  python3 driver.py -w1
+  417  python3 driver.py -w2
+  418  git add .
+  419  make clean
+  420  make debug
+  421  git add .
+  422  git commit -m "week1"
+  423  git push
+  424  python python3 driver.py -w1
+  425  ./bump_test
+  426  ./bump_test
+  427  python3 driver.py -w1
+  428  python3 driver.py
+  429  python3 driver.py
+  430  make all
+  431  make all
+  432  python3 driver.py
+  433  ./runner -f traces/week1/short1.rep -v
+  434  make clean
+  435  make debug
+  436  make deploy
+  437  runner -h
+  438  ./bump_test
+  439  gdb ./bump_test
+  440  make clean
+  441  make debug
+  442  python3 driver
+  443  python3 driver.py
+  444  make clean
+  445  ake debug
+  446  make debug
+  447  gdb ./bump_test
+  448  make clean
+  449  make debug
+  450  gdb ./bump_test
+  451  y
+  452  gdb ./bump_test
+  453  ./bump_test
+  454  make clean
+  455  make debug
+  456  ./bump_test
+  457  gdb ./runner
+  458  make clean
+  459  make debug
+  460  gdb ./runner
+  461  make clean
+  462  make debug
+  463  gdb ./bump_test
+  464  make clean
+  465  make debug
+  466  gdb ./bump_test
+  467  make all
+  468  python3 driver.py
+  469  gdb ./bump_test
+  470  ls -a
+  471  touch ~./gdbinit
+  472  pwd
+  473  touch ~/.gdbinit
+  474  ls -a
+  475  echo set history save on
+  476  echo "set history save on" > ~/.gdbinit
+  477  cat ~/gdbinit
+  478  cat ~/.gdbinit
+  479  -ls a
+  480  ls -a
+  481  git clone git@github.com:sillywillyatUT/proficiencytesta.git
+  482  touch ~/.gdbinit
+  483  ls -a
+  484  echo "set history save on"
+  485  echo "set history save on" > ~/.gdbinit
+  486  cat ~/.gdbinit
+  487  pwd
+  488  ls
+  489  ls -l
+  490  cd .
+  491  pwd
+  492  mkdir demo
+  493  cd demo
+  494  git clone git@github.com:sillywillyatUT/proficiencytesta.git
+  495  ls
+  496  cd proficiencytesta
+  497  pwd
+  498  git add .
+  499  git commit -m "moved files"
+  500  git push
+  501  make
+  502  ./mini_ci
+  503  ./mini_ci testcases/basic_add.s
+  504  ./mini_ci testcases/basic_div.s
+  505  make check
+  506  chmod +x mini_ci_reference
+  507  make check
+  508  make clean
+  509  make debug
+  510  make
+  511  make ./mini_ci/testcases/basic_add.s
+  512  make clear
+  513  make clean
+  514  clear
+  515  make debug
+  516  gdb mini_ci
+  517  /.mini_ci
+  518  ./mini_ci
+  519  ./mini_ci/testcases/basic_add.s
+  520  ./mini_ci testcases/basic_add.s
+  521  ./mini_ci testcases basic_mul.s
+  522   ./mini_ci testcases basic_sub.s
+  523  gdb mini_ci
+  524  make run
+  525  make check
+  526  ./mini_ci/testcases/multi_op_err.s
+  527  ./mini_ci
+  528  ./mini_ci testcases/multi_op_err.s
+  529  make clean
+  530  clear
+  531  make debug
+  532  gdb mini_ci
+  533  make
+  534  ./mini_ci testcases/multi_op_err.s
+  535  make check
+  536  make clean
+  537  make debug
+  538  gdb mini_ci
+  539  gdb mini_ci
+  540  make clean
+  541  make debug
+  542  make check
+  543  make clean
+  544  make debug
+  545  gdb mini_ci
+  546  make clean
+  547  make debug
+  548  make check
+  549  gdb mini_ci
+  550  y
+  551  ./mini_ci testcases/err_ops.s
+  552  ./mini_ci_reference testcases/err_ops.s
+  553  history > history.txt
